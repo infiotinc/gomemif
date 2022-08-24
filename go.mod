@@ -1,4 +1,4 @@
-module github.com/praveenfff/gomemif
+module github.com/infiotinc/gomemif
 
 go 1.12
 
